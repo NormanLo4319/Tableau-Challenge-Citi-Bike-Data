@@ -9,3 +9,5 @@ Tableau Visualization Tool for Citi Bike Data
 3. Out of total 919,921 record, male accounts for 634,219 record (approx. 68.94%), female accounts for 190,551 (approx. 20.71%), and 95,151 records are unknown.
 
 4. The average trip duration for male is 807 and for female is 982, which suggests that female on average utilize the bike more than male user regardless the total record is dominated by male users.
+
+5. According to the bike utilization graph, we can easily visualize which bikes need to be check for maintainence to ensure quality of the bikes in the city.

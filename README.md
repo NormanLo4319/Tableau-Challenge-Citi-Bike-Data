@@ -1,4 +1,4 @@
-# Tableau-Challenge-Citi-Bike-Data
+# Tableau Challenge Citi Bike Data
 Tableau Visualization Tool for Citi Bike Data
 
 ## Intuitive Findings from the Data
